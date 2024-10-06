@@ -1,0 +1,6 @@
+.link {
+	display: block;
+	color: black;
+	text-decoration: none;
+	box-shadow: 0px 0px 3px whitesmoke 0 0 5px whitesmoke 0 0 7px whitesmoke;
+}
